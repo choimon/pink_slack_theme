@@ -1,0 +1,5 @@
+#Note:
+# Go to Preferences>Sidebar > customize
+# copy and paste the below
+
+#FADEE7,#F7EDF1,#F9C6D6,#5D5759,#D7F7F2,#5D5759,#F0A2B8,#F0A2B8
